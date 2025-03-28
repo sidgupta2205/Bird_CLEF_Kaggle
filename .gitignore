@@ -175,3 +175,7 @@ cython_debug/
 
 # directory for models checkpoint
 models/
+
+# directory for data
+birdclef-2025/
+
